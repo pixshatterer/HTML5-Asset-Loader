@@ -10,7 +10,7 @@
             errorQueue = [],
             readyQueue = [],
             onImageReady = function() {
-                console.log('[set callback]');
+                //[set callback here]
                 return true;
             };
 
